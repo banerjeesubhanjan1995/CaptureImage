@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="io.cordova.myapp664c3a0bb594467aaf744bf522af8961" version="1.0" primary="true">
+		<Qualifiers>
+			<Scale>240</Scale>
+		</Qualifiers>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="config.xml" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/config.xml">
+				<Candidate type="Path">
+					<Value>config.xml</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="images">
+				<NamedResource name="SplashScreen.png" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/images/SplashScreen.png"/>
+				<NamedResource name="SplashScreenPhone.png" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/images/SplashScreenPhone.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\SplashScreenPhone.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square150x150Logo.png" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/images/Square150x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square150x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square30x30Logo.png" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/images/Square30x30Logo.png"/>
+				<NamedResource name="Square310x310Logo.png" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/images/Square310x310Logo.png"/>
+				<NamedResource name="Square44x44Logo.png" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/images/Square44x44Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square44x44Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Square70x70Logo.png" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/images/Square70x70Logo.png"/>
+				<NamedResource name="Square71x71Logo.png" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/images/Square71x71Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Square71x71Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/images/StoreLogo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\StoreLogo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="Wide310x150Logo.png" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/images/Wide310x150Logo.png">
+					<Candidate qualifiers="Scale-240" isDefault="true" type="Path">
+						<Value>images\Wide310x150Logo.scale-240.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="www">
+				<NamedResource name="cordova.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/cordova.js">
+					<Candidate type="Path">
+						<Value>www\cordova.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="cordova_plugins.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/cordova_plugins.js">
+					<Candidate type="Path">
+						<Value>www\cordova_plugins.js</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="index.html" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/index.html">
+					<Candidate type="Path">
+						<Value>www\index.html</Value>
+					</Candidate>
+				</NamedResource>
+				<ResourceMapSubtree name="css">
+					<NamedResource name="index.css" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/css/index.css">
+						<Candidate type="Path">
+							<Value>www\css\index.css</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="plugins">
+					<ResourceMapSubtree name="org.apache.cordova.file">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="FileProxy.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/src/windows/FileProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\org.apache.cordova.file\src\windows\FileProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="DirectoryEntry.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/DirectoryEntry.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\DirectoryEntry.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="DirectoryReader.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/DirectoryReader.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\DirectoryReader.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Entry.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/Entry.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\Entry.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="File.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/File.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\File.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="FileEntry.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/FileEntry.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\FileEntry.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="FileError.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/FileError.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\FileError.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="FileReader.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/FileReader.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\FileReader.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="FileSystem.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/FileSystem.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\FileSystem.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="fileSystems.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/fileSystems.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\fileSystems.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="FileUploadOptions.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/FileUploadOptions.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\FileUploadOptions.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="FileUploadResult.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/FileUploadResult.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\FileUploadResult.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="FileWriter.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/FileWriter.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\FileWriter.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Flags.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/Flags.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\Flags.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="LocalFileSystem.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/LocalFileSystem.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\LocalFileSystem.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="Metadata.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/Metadata.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\Metadata.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="ProgressEvent.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/ProgressEvent.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\ProgressEvent.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="requestFileSystem.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/requestFileSystem.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\requestFileSystem.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="resolveLocalFileSystemURI.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.file/www/resolveLocalFileSystemURI.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.file\www\resolveLocalFileSystemURI.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+					<ResourceMapSubtree name="org.apache.cordova.media-capture">
+						<ResourceMapSubtree name="src">
+							<ResourceMapSubtree name="windows">
+								<NamedResource name="CaptureProxy.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.media-capture/src/windows/CaptureProxy.js">
+									<Candidate type="Path">
+										<Value>www\plugins\org.apache.cordova.media-capture\src\windows\CaptureProxy.js</Value>
+									</Candidate>
+								</NamedResource>
+								<NamedResource name="MediaFile.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.media-capture/src/windows/MediaFile.js">
+									<Candidate type="Path">
+										<Value>www\plugins\org.apache.cordova.media-capture\src\windows\MediaFile.js</Value>
+									</Candidate>
+								</NamedResource>
+							</ResourceMapSubtree>
+						</ResourceMapSubtree>
+						<ResourceMapSubtree name="www">
+							<NamedResource name="capture.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.media-capture/www/capture.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.media-capture\www\capture.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="CaptureAudioOptions.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.media-capture/www/CaptureAudioOptions.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.media-capture\www\CaptureAudioOptions.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="CaptureError.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.media-capture/www/CaptureError.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.media-capture\www\CaptureError.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="CaptureImageOptions.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.media-capture/www/CaptureImageOptions.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.media-capture\www\CaptureImageOptions.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="CaptureVideoOptions.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.media-capture/www/CaptureVideoOptions.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.media-capture\www\CaptureVideoOptions.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="MediaFile.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.media-capture/www/MediaFile.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.media-capture\www\MediaFile.js</Value>
+								</Candidate>
+							</NamedResource>
+							<NamedResource name="MediaFileData.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/plugins/org.apache.cordova.media-capture/www/MediaFileData.js">
+								<Candidate type="Path">
+									<Value>www\plugins\org.apache.cordova.media-capture\www\MediaFileData.js</Value>
+								</Candidate>
+							</NamedResource>
+						</ResourceMapSubtree>
+					</ResourceMapSubtree>
+				</ResourceMapSubtree>
+				<ResourceMapSubtree name="scripts">
+					<NamedResource name="index.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/scripts/index.js">
+						<Candidate type="Path">
+							<Value>www\scripts\index.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="platformOverrides.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/scripts/platformOverrides.js">
+						<Candidate type="Path">
+							<Value>www\scripts\platformOverrides.js</Value>
+						</Candidate>
+					</NamedResource>
+					<NamedResource name="winstore-jscompat.js" uri="ms-resource://io.cordova.myapp664c3a0bb594467aaf744bf522af8961/Files/www/scripts/winstore-jscompat.js">
+						<Candidate type="Path">
+							<Value>www\scripts\winstore-jscompat.js</Value>
+						</Candidate>
+					</NamedResource>
+				</ResourceMapSubtree>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

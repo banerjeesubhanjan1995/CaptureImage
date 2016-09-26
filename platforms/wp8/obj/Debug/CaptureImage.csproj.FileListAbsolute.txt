@@ -1,0 +1,16 @@
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\Bin\Debug\ApplicationIcon.png
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\Bin\Debug\Background.png
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\Bin\Debug\io.cordova.myapp664c3a0bb594467aaf744bf522af8961.dll
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\Bin\Debug\io.cordova.myapp664c3a0bb594467aaf744bf522af8961.pdb
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\Bin\Debug\AppManifest.xaml
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\Bin\Debug\Properties\WMAppManifest.xml
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\Bin\Debug\CordovaAppProj_Debug_AnyCPU.xap
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\obj\Debug\App.g.cs
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\obj\Debug\Plugins\org.apache.cordova.media-capture\AudioRecorder.g.cs
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\obj\Debug\Plugins\org.apache.cordova.media-capture\VideoRecorder.g.cs
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\obj\Debug\cordovalib\CordovaView.g.cs
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\obj\Debug\MainPage.g.cs
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\obj\Debug\io.cordova.myapp664c3a0bb594467aaf744bf522af8961.g.resources
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\obj\Debug\io.cordova.myapp664c3a0bb594467aaf744bf522af8961.dll
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\obj\Debug\io.cordova.myapp664c3a0bb594467aaf744bf522af8961.pdb
+D:\LG_8_Activities\CaptureImage\CaptureImage\platforms\wp8\obj\Debug\XapCacheFile.xml
